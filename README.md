@@ -24,3 +24,5 @@ A simple calculator built using **HTML, CSS, and JavaScript**.
 - Remove eval() for safety
 - Add dark/light mode
 
+## 🌐 Live Demo
+🔗  https://kashishmah.github.io/calculator/
